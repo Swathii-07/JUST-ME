@@ -1,2 +1,9 @@
-# JUST-ME
-Hey, I’m Swathi! A curious mind who loves exploring how things work, experimenting with technology, and turning ideas into reality. From coding and creative design to music and stargazing, I’m always excited to learn, create, and try something new.
+# Hey, I'm Swathi! 👀
+
+Part-time coder, full-time curious human. 🚀
+
+I fix things, break things, build things, and occasionally wonder, *what if?* From coding and designing to playing music and staring at stars, my curiosity has no off switch.
+
+**Currently:** Learning, experimenting, and turning random ideas into real things. ✨
+
+🌐 **Check out my portfolio:** [justme-eight.vercel.app](https://justme-eight.vercel.app/)
