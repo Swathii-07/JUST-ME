@@ -1,6 +1,6 @@
 # Hey, I'm Swathi! 👀
 
-Part-time coder, full-time curious human. 🚀
+Part-time coder, full-time curious human. 
 
 I fix things, break things, build things, and occasionally wonder, *what if?* From coding and designing to playing music and staring at stars, my curiosity has no off switch.
 
